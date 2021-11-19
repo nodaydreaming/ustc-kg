@@ -1,0 +1,2 @@
+kashgari_study 模型训练以及部署预测工程
+qasystemonmedicalkg-master 图数据检索，用户交互工程
